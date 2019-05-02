@@ -1,0 +1,38 @@
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+<url>
+	<loc>https://abog.awnto.com</loc>
+</url>
+
+<url>
+	<loc>https://abog.awnto.com/smart_phones/realme_1/</loc>  
+		<url>
+			<loc>https://abog.awnto.com/smart_phones/realme_1/root_magisk/</loc>
+			<loc>https://abog.awnto.com/smart_phones/realme_1/aosp9gsi/</loc>
+			
+			<loc>https://abog.awnto.com/smart_phones/realme_1/news/about_cam2api/</loc>
+		</url>
+</url>
+
+
+<url>
+	<loc>https://abog.awnto.com</loc>  
+		<url>
+			<loc>https://abog.awnto.com/smart_phones/micromax_bharat_1/root_magisk/</loc>
+			<loc>https://abog.awnto.com/smart_phones/micromax_bharat_1/root_magisk/</loc>
+		</url>
+</url>
+
+
+
+
+<url>
+	<loc>https://abog.awnto.com/</loc>
+		<url>
+			<loc>https://abog.awnto.com/youtube/proxy_list/</loc>
+			<loc>https://abog.awnto.com/youtube/coloros_themes/</loc>
+		</url>
+</url>
+
+</urlset>
